@@ -34,8 +34,8 @@ To get started with this project, please ensure you have appropriate AWS credent
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-org/fhir-interoperability.git
-cd fhir-interoperability
+git clone https://bmorganpalmer/healthlake.git
+cd healthlake
 ```
 
 ## Usage Examples
